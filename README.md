@@ -40,7 +40,7 @@ __[동기] :__
 ### 👥 팀 구성 및 개발 환경
 
 __[팀원] :__
-|[🙍‍♂️ 이형진](https://github.com/HyeongJIn0020) (팀장)|[🙍‍♂️ 장창연](https://github.com/jchangy)|[🙍‍♂️ 권우진](https://github.com/roamounau)|🙍‍♂️ 윤현규|
+|[🙍‍♂️ 이형진](https://github.com/HyeongJIn0020) (팀장)|[🙍‍♂️ 장창연](https://github.com/jchangy)|🙍‍♂️ 권우진|🙍‍♂️ 윤현규|
 |---|---|---|---|
 |Backend/Frontend|Backend/Frontend|Backend/Frontend|Backend/Frontend|
 
